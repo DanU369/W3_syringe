@@ -1,0 +1,7 @@
+action: in text field I typed <<ceva');DROP TABLE comment; -->>
+result: the comment table was deleted
+
+action: in the name field I typed <<CODECOOL', 'codecool e baza'),('CODECOOL', 'codecool e baza')..(ctrl+v text *,('CODECOOL', 'codecool e baza')* as many times as I want..; -->>
+result: spam in the comment section
+
+
